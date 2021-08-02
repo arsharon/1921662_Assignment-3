@@ -1,3 +1,9 @@
+body
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
 .navcolor
 {
     background-color: #FFF9F4;
@@ -43,4 +49,17 @@ nav img
 {
     height: 20px;
     width: 20px;
+}
+
+.box
+{
+    border: 1px solid whitesmoke;
+    padding: 10px;
+    box-shadow: 1px 1px 1px 1px  #d1cfcf;
+}
+
+.footerimg img
+{
+    height: 70px;
+    width: 55px
 }
